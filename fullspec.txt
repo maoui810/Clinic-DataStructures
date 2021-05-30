@@ -1,0 +1,12 @@
+Pediatrics PED
+General practice GEN
+Internal medicine INT
+Cardiology CAR
+Surgeon SUR
+Obstetrics OBS
+Psychiatry PSY
+Neurology NEU
+Orthopedics ORT
+Dermatology DET
+Ophthalmology OPT
+Ear, Nose, and Throat ENT

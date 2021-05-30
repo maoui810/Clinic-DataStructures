@@ -1,0 +1,153 @@
+Doctors Checked in By Default
+Dennis Kyriakos
+PED
+100
+Dan Chan
+GEN
+101
+Dorian Rhodell
+INT
+102
+Ryan Kane
+CAR
+103
+Alan
+SUR
+104
+Glen Michelette
+OBS
+105
+Mark Robinson
+PSY
+106
+Sebastian Boswell
+NEU
+107
+Gabriel Holmes
+ORT
+108
+Heather Rogers
+DET
+109
+Manpreet Singh
+OPT
+110
+Harjot Singh
+ENT
+111
+Not Rooms
+100
+Not Rooms
+101
+Not Rooms
+102
+Not Rooms
+103
+Not Rooms
+104
+Not Rooms
+105
+Not Rooms
+106
+Not Rooms
+107
+Not Rooms
+108
+Not Rooms
+109
+Not Rooms
+110
+Not Rooms
+111
+Avaiable Rooms
+112
+Avaiable Rooms
+113
+Avaiable Rooms
+114
+Avaiable Rooms
+115
+Avaiable Rooms
+116
+Avaiable Rooms
+117
+Avaiable Rooms
+118
+Avaiable Rooms
+119
+Full Spec Display List
+Pediatrics PED
+General practice GEN
+Internal medicine INT
+Cardiology CAR
+Surgeon SUR
+Obstetrics OBS
+Psychiatry PSY
+Neurology NEU
+Orthopedics ORT
+Dermatology DET
+Ophthalmology OPT
+Ear, Nose, and Throat ENT
+PED
+GEN
+INT
+CAR
+SUR
+OBS
+PSY
+NEU
+ORT
+DET
+OPT
+ENT
+Ear, Nose, and Throat ENT
+Ophthalmology OPT
+Dermatology DET
+Orthopedics ORT
+Neurology NEU
+Psychiatry PSY
+Obstetrics OBS
+Surgeon SUR
+Cardiology CAR
+Internal medicine INT
+General practice GEN
+Pediatrics PED
+Show Full Spec
+
+ not found 
+Show Full Spec
+PSY
+PSYfound 
+111
+Harjot Singh
+ENT
+110
+Manpreet Singh
+OPT
+109
+Heather Rogers
+DET
+108
+Gabriel Holmes
+ORT
+107
+Sebastian Boswell
+NEU
+105
+Glen Michelette
+OBS
+104
+Alan
+SUR
+103
+Ryan Kane
+CAR
+102
+Dorian Rhodell
+INT
+101
+Dan Chan
+GEN
+100
+Dennis Kyriakos
+PED
